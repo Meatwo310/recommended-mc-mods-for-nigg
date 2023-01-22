@@ -212,7 +212,7 @@ https://github.com/MeetingMeat/recommended-mc-mods-for-nigg/raw/main/%E3%80%90%E
 - Iron Chest
   - 大容量チェストを追加する。
 - Item Zoom
-  - インベントリでアイテムの拡大表示機能を追加する。切り替えを`Ctrl+Z`、一時ズームを`Z`に割り当てするのがおすすめ。
+  - インベントリでアイテムの拡大表示機能を追加する。切り替えを`Ctrl`+`Z`、一時ズームを`Z`に割り当てするのがおすすめ。
 - MmmMmmMmmMMm (Target Dummy)
   - ~~名前がふざけているように見えるが、~~ サンドバッグなエンティティの「ダミー」を追加する。素手で`Shift`+`クリック`しない限り壊れない。
 - **Nature's Compass / Explorer's Compass★**
