@@ -22,7 +22,7 @@ baubles betterendforge betterf3 bettermodsbutton bloodandmadness bookshelf botan
 zipですが **解凍してお使いください。**  
 https://  
 ※個人利用は自由ですが、自作発言は禁止します。  
-※商用利用する場合は、[このページのリンク](https://)を概要欄等に貼り付けてください。  
+※商用利用する場合は、[このGitHubページへのリンク](https://github.com/MeetingMeat/recommended-mc-mods-for-nigg)を概要欄等に貼り付けてください。  
 
 
 ## 便利系(基本的にバニラの雰囲気を壊しません)
