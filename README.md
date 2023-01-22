@@ -21,7 +21,7 @@ baubles betterendforge betterf3 bettermodsbutton bloodandmadness bookshelf botan
 [このリンクからダウンロードできます。](https://github.com/MeetingMeat/recommended-mc-mods-for-nigg/raw/main/%E3%80%90%E8%A7%A3%E5%87%8D%E3%81%97%E3%81%A6%E3%81%8A%E4%BD%BF%E3%81%84%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%911.16.5%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%83%AA%E3%82%BD%E3%83%91%20by%20Meatwo310.zip)  
 zipですが **解凍してお使いください。**  
 ※個人利用は自由ですが、自作発言は禁止します。  
-※商用利用する場合は、[このリンク](https://github.com/MeetingMeat/recommended-mc-mods-for-nigg#%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%83%AA%E3%82%BD%E3%83%91%E8%87%AA%E4%BD%9C)を概要欄等に貼り付けてください。  
+※商用利用する場合は、[このページへのリンク](https://github.com/MeetingMeat/recommended-mc-mods-for-nigg)を概要欄等に貼り付けてください。  
 
 
 ## 便利系(基本的にバニラの雰囲気を壊しません)
