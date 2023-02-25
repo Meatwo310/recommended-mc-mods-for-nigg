@@ -6,22 +6,9 @@
 誤字等があればご指摘ください。
 
 
-## 日本語化リソパ(自作)v1.2
+## 日本語化リソパ
 
-~~宣伝行為だとか言わない~~  
-1.16.5のMODを色々と日本語化するリソパを作成しました(もともと自分用に作っていた)。  
-Pam's Harvest Craft の FoodCore, Trees, Crops (FoodExtendedは未対応) を始めとする様々なMODを翻訳します。  
-対応MODは以下の通りです。(v1.2時点)  
-ニグさんの要望があれば翻訳を追加/修正します(動画内かTwitterで言及してください)。
-
-```text
-baubles betterendforge betterf3 bettermodsbutton bloodandmadness bookshelf botanypots botanypotstiers buildinggadgets caelus carryon catalogue chisel cold_sweat compressed configured controlling cookingforblockheads craftingstation culinaryconstruct curios doubleslabs easy_piglins easy_villagers elevatorid enchantmentmachine enchdesc etiiin extrastorage fluxnetworks ftblibrary ftbquests ftbultimine globalxp improvedmobs ironchest ironjetpacks jecalculation jeed jeienchantmentinfo jeiintegration jeresources justenoughprofessions magnesium notenoughcrashes pamhc2crops pamhc2foodcore pamhc2trees pickletweaks pipez playerhopper potionbundles reauth sereneseasons snad solcarrot solpotato storagedrawers survive theoneprobe tiab tips toolswap torcherino toughasnails travelerstitles uppers walljump woodcutter woodenhopper woodenshears
-```
-
-[このリンクからダウンロードできます。](https://github.com/MeetingMeat/recommended-mc-mods-for-nigg/raw/main/%E3%80%90%E8%A7%A3%E5%87%8D%E3%81%97%E3%81%A6%E3%81%8A%E4%BD%BF%E3%81%84%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%911.16.5%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%83%AA%E3%82%BD%E3%83%91%20by%20Meatwo310.zip)  
-zipですが **解凍してお使いください。**  
-※個人利用は自由ですが、自作発言は禁止します。  
-※商用利用する場合は、[このページへのリンク](https://github.com/MeetingMeat/recommended-mc-mods-for-nigg)を概要欄等に貼り付けてください。  
+[移行しました。](https://github.com/MeetingMeat/mc1.16-japanese-localization)
 
 
 ## 便利系(基本的にバニラの雰囲気を壊しません)
